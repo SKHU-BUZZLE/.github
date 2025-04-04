@@ -49,7 +49,40 @@
 | **환경 설정**            | Spring Profiles, application.yml / application.properties          |
 | **로깅**                |  SLF4J                     |
 | **배포 및 실행**         |  Spring Boot Jar, AWS EC2          |
+<div>
+  <!-- Java -->
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" />
 
+<!-- Spring Boot -->
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" />
+
+<!-- Spring Data JPA -->
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
+
+<!-- NGINX -->
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+
+<!-- Swagger -->
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" />
+
+<!-- QueryDSL -->
+<img src="https://img.shields.io/badge/QueryDSL-4485F4?style=for-the-badge&logo=Google&logoColor=white" />
+
+<!-- AWS RDS -->
+<img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white" />
+
+<!-- AWS S3 -->
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white" />
+
+<!-- SSE (Server-Sent Events) -->
+<img src="https://img.shields.io/badge/SSE(Server--Sent%20Events)-800080?style=for-the-badge&logo=Signal&logoColor=white" />
+
+<!-- MySQL -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/WebSocket-C93CD7?style=for-the-badge&logo=Socket&logoColor=white">
+
+</div>
 ---
 
 ## 🔗 API 연동
