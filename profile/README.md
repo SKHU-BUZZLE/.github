@@ -20,13 +20,19 @@
 ---
 
 ## 🚀 기술 스택
-| 구분                   | 기술                                                             |
-|------------------------|------------------------------------------------------------------|
-| **Frontend**           | React JS                                                        |
-| **State Management**   | Zustand                                                         |
-| **Networking & API**   | http, SockJs, Stomp, axios, event-source-polyfill              |
-| **UI & Styling**       | framer-motion, lottiefiles                                      |
-| **Authentication**     | KaKao SDK                                                       |
+| 구분                   | 기술                                                                 |
+|------------------------|----------------------------------------------------------------------|
+| **Frontend**           | React JS, Vite                                                      |
+| **State Management**   | Zustand                                                             |
+| **Networking & API**   | HTTP, Axios, SockJS, STOMP, EventSource (event-source-polyfill)     |
+| **UI & Styling**       | Tailwind CSS, framer-motion, LottieFiles, lucide-react, tailwind-merge |
+| **Routing**            | React Router DOM                                                   |
+| **Type Checking**      | TypeScript                                                         |
+| **Linting**            | ESLint, eslint-plugin-react-hooks, eslint-plugin-react-refresh     |
+| **Build Tool**         | Vite, TypeScript Compiler (tsc)                                    |
+| **PWA**                | vite-plugin-pwa                                                    |
+| **Authentication**     | Kakao SDK                                                          |
+| **Deployment**         | Netlify                                                            |
 
 <br>
 
@@ -67,13 +73,13 @@
 | 항목 | 내용 |
 |------|------|
 | **기능** | 사용자가 AI로 생성된 퀴즈를 실제로 풀며 학습하는 공간입니다. |
-| **스크린샷** | <img src="" width="200px"> |
+| **스크린샷** | <img src="https://github.com/user-attachments/assets/cd461a06-25c7-4e23-a2d9-8f243727be05" width="200px"> |
 
 ### 🆚 1:1 대결 
 | 항목 | 내용 |
 |------|------|
 | **기능** | 사용자 두 명이 동시에 동일한 퀴즈 문제를 풀면서 실시간으로 경쟁할 수 있습니다. |
-| **스크린샷** | <img src="" width="200px"> |
+| **스크린샷** | <img src="https://github.com/user-attachments/assets/a5fe8d17-e5a0-42c3-9308-045e0698f9cc" width="200px"> |
 
 ### 🥇 랭킹 페이지
 | 항목 | 내용 |
@@ -86,7 +92,9 @@
 ## 📢 팀원 소개
 
 | 이름 | 역할 | 담당 기능 | GitHub |
-|------|------|----------------------|--------|
-| 김동찬 | 프론트엔드 개발 |  UI 설계 및 대결 기능, 퀴즈 기능 구현 | [@kdc9050](https://github.com/kdc9050) |
-| 허남규 | 프론트엔드 개발 | UI 설계 및 로그인, 상태 관리 및 API 연동, 마이페이지 | [@Zvckaya](https://github.com/Zvckaya) |
-| 최인호 | 백엔드 개발 | API 설계, 인증 처리, DB 구축 및 서버 운영 등 | [@inhooo00](https://github.com/inhooo00) |
+|------|------|-----------|--------|
+| <div align="center"><img src="https://github.com/kdc9050.png" width="80"/><br>김동찬</div> | 프론트엔드 개발 | UI 설계 및 대결 기능, 퀴즈 기능 구현 | [@kdc9050](https://github.com/kdc9050) |
+| <div align="center"><img src="https://github.com/Zvckaya.png" width="80"/><br>허남규</div> | 프론트엔드 개발 | UI 설계 및 로그인, 상태 관리 및 API 연동, 마이페이지 | [@Zvckaya](https://github.com/Zvckaya) |
+| <div align="center"><img src="https://github.com/inhooo00.png" width="80"/><br>최인호</div> | 백엔드 개발 | API 설계, 인증 처리, DB 구축 및 서버 운영 등 | [@inhooo00](https://github.com/inhooo00) |
+
+
