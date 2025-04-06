@@ -126,8 +126,8 @@
 
 | 이름 | 역할 | 담당 기능 | GitHub |
 |------|------|-----------|--------|
-| <div align="center"><img src="https://github.com/kdc9050.png" width="80"/><br>김동찬</div> | 프론트엔드 개발 | UI 설계 및 대결 기능, 퀴즈 기능 구현 | [@kdc9050](https://github.com/kdc9050) |
-| <div align="center"><img src="https://github.com/Zvckaya.png" width="80"/><br>허남규</div> | 프론트엔드 개발 | UI 설계 및 로그인, 상태 관리 및 API 연동, 마이페이지 | [@Zvckaya](https://github.com/Zvckaya) |
+| <div align="center"><img src="https://github.com/kdc9050.png" width="80"/><br>김동찬</div> | 프론트엔드 개발 | 프론트엔드 개발 / UI 설계 및 로그인, 상태 관리 및 API 연동, 마이페이지, 랭킹페이지, 라우터 설계, 멀티 플레이 기능 구현 | [@kdc9050](https://github.com/kdc9050) |
+| <div align="center"><img src="https://github.com/Zvckaya.png" width="80"/><br>허남규</div> | 프론트엔드 개발 | UI 설계 및 대결 기능, 싱글 플레이 기능 구현, 라우터 설계, sse설정, 멀티 플레이 기능 구현 | [@Zvckaya](https://github.com/Zvckaya) |
 | <div align="center"><img src="https://github.com/inhooo00.png" width="80"/><br>최인호</div> | 백엔드 개발 | API 설계, 인증 처리, DB 구축 및 서버 운영 등 | [@inhooo00](https://github.com/inhooo00) |
 
 
